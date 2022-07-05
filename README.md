@@ -1,0 +1,3 @@
+# Random-Color-Generator
+
+Start of my Javascript learning. Using my knowledge of website creation to make something...
